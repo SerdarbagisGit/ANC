@@ -33,13 +33,13 @@ Arithmetic operations involving addition and subtraction of single digits, with 
 
 
     
-![png](read_me\output_8_0.png)
+![png](read_me/output_8_0.png)
     
 
 
 
     
-![png](read_me\output_8_1.png)
+![png](read_me/output_8_1.png)
     
 
 
@@ -58,13 +58,13 @@ Arithmetic operations involving addition and subtraction of single digits, with 
 
 
     
-![png](read_me\output_10_0.png)
+![png](read_me/output_10_0.png)
     
 
 
 
     
-![png](read_me\output_10_1.png)
+![png](read_me/output_10_1.png)
     
 
 
@@ -81,13 +81,13 @@ Arithmetic operations involving addition and subtraction of single digits, with 
 
 
     
-![png](read_me\output_12_0.png)
+![png](read_me/output_12_0.png)
     
 
 
 
     
-![png](read_me\output_12_1.png)
+![png](read_me/output_12_1.png)
     
 
 
